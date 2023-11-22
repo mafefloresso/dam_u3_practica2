@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914535224536",
+    "project_id": "dam-u3-practica-2-cancion",
+    "storage_bucket": "dam-u3-practica-2-cancion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914535224536:android:50cc2d764a02c3322273ad",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_practica_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhAb2iSnj_UFcyOH88pegEyA6HT_0g1p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
